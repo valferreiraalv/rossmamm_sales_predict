@@ -10,6 +10,15 @@ Após reuniões com pessoas da área descobriu-se que a requisição provém do 
 # Hipóteses Importantes
 As vendas da loja são influenciadas por muitos fatores, incluindo promoções, competição, feriados escolares e estaduais, sazonalidade e localidade. E a partir destes fatos foram levantadas algumas hipóteses importantes e representadas por meio de visualizações. 
 
+ -
+ -
+-
+-
+-
+-
+-
+-
+
 # Etapas de Solução 
 <b>1. Análise Descritiva dos Dados</b>
 
