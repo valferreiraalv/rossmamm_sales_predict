@@ -1,4 +1,11 @@
 # Rossmann Sales Predict
+
+<div align="center">
+<img src="https://github.com/valferreiraalv/rossmann_sales_prediction/blob/main/img/Rossmann2.png" width="1100px" />
+</div>
+
+# Rossmann Store
+
 A Rossmann opera mais de 3.000 drogarias em 7 países europeus. Atualmente, os gerentes de loja da Rossmann têm a tarefa de prever suas vendas diárias com até seis semanas de antecedência. Com milhares de gerentes individuais prevendo vendas com base em suas circunstâncias únicas, a precisão dos resultados pode ser bastante variada e isso dificulta a tomada de decisão. Para auxiliar na resolução da questão foi implementado um modelo de predição que permite interação com o time de negócios.
 
 # Questão de Negócio 
@@ -10,14 +17,29 @@ Após reuniões com pessoas da área descobriu-se que a requisição provém do 
 # Hipóteses Importantes
 As vendas da loja são influenciadas por muitos fatores, incluindo promoções, competição, feriados escolares e estaduais, sazonalidade e localidade. E a partir destes fatos foram levantadas algumas hipóteses importantes e representadas por meio de visualizações. 
 
- -
- -
--
--
--
--
--
--
+<b>H1.</b>
+
+<b>H2.</b>
+
+<b>H3.</b>
+
+<b>H4.</b>
+
+<b>H5.</b>
+
+<b>H6.</b>
+
+<b>H7.</b>
+
+<b>H8.</b>
+
+<b>H9.</b>
+
+<b>H10.</b>
+
+<b>H11.</b>
+
+<b>H12.</b>
 
 # Etapas de Solução 
 <b>1. Análise Descritiva dos Dados</b>
