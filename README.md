@@ -1,5 +1,5 @@
 
-# Rossmann Sales Predict
+# Rossmann Sales Prediction
 
 <div align="center">
 <img src="https://github.com/valferreiraalv/rossmann_sales_prediction/blob/main/img/Rossmann2.png" width="1100px" />
