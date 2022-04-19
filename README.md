@@ -1,3 +1,4 @@
+
 # Rossmann Sales Predict
 
 <div align="center">
@@ -17,29 +18,27 @@ Após reuniões com pessoas da área descobriu-se que a requisição provém do 
 # Hipóteses Importantes
 As vendas da loja são influenciadas por muitos fatores, incluindo promoções, competição, feriados escolares e estaduais, sazonalidade e localidade. E a partir destes fatos foram levantadas algumas hipóteses importantes e representadas por meio de visualizações. 
 
-<b>H1.</b>
+<b>H1.</b> Lojas com maior sortimentos deveriam vender mais.
 
-<b>H2.</b>
+<b>H2.</b> Lojas com competidores mais próximos deveriam vender menos.
 
-<b>H3.</b>
+<b>H3.</b> Lojas com competidores a mais tempo deveriam vender mais.
 
-<b>H4.</b>
+<b>H4.</b> Lojas com promoções ativas popr mais tempo deveriam vender mais.
 
-<b>H5.</b>
+<b>H5.</b> Lojas com mais dias de promoções consecutivas deveriam vender mais.
 
-<b>H6.</b>
+<b>H6.</b> Lojas deveriam vender mais ao longo dos anos.
 
-<b>H7.</b>
+<b>H7.</b> Lojas deveriam vender mais no segundo semestre do ano.
 
-<b>H8.</b>
+<b>H8.</b> Lojas deveriam vender mais no segundo semestre do ano.
 
-<b>H9.</b>
+<b>H9.</b> Lojas deveriam vender mais depois do dia 10 de cada mês.
 
-<b>H10.</b>
+<b>H10.</b> Lojas deveriam vender menos aos finais de semana.
 
-<b>H11.</b>
-
-<b>H12.</b>
+<b>H11.</b> Lojas deveriam vender menos durante os feriados escolares.
 
 # Etapas de Solução 
 <b>1. Análise Descritiva dos Dados</b>
