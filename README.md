@@ -41,6 +41,9 @@ As vendas da loja são influenciadas por muitos fatores, incluindo promoções, 
 <b>H11.</b> Lojas deveriam vender menos durante os feriados escolares.
 
 # Etapas de Solução 
+
+- [Notebook](https://github.com/valferreiraalv/rossmann_sales_prediction/blob/main/notebooks/m10_v01_store_sales_prediction.ipynb)
+
 <b>1. Análise Descritiva dos Dados</b>
 
 Iniciada descrição dos dados com o objetivo de obter um resumo abrangente sobre os dados para entender qual o problema será enfrentado com esses dados. 
