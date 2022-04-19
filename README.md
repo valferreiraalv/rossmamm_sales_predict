@@ -52,6 +52,8 @@ A performance do modelo de machine learning foi traduzida para o modelo de negó
 
 A implementação do modelo em produção visa tornar as predições mais acessíveis para qualquer responsável por acompanhar o desenvolvimento do negócio. 
 
+<b>9. Bot no Telegram </b>
+
 
 # Conclusão 
 
