@@ -80,6 +80,12 @@ A implementação do modelo em produção visa tornar as predições mais acess�
 
 
 # Conclusão 
+As etapas executadas nesta questão de negócio demonstram a importância de entender a origem da solicitação de previsão de vendas, quais as reais necessidades dos interessados para que o cientista de dados possa chegar ao resultado apresentado. 
+
+Dentre essas etapas, a análise exploratória de dados foi fundamental para a elaboração de hipóteses que trouxeram insights relevantes para o planejamento de novas ações e aplicações dos modelos de machine learning. 
+
+A implementação dos modelos de machine learning permitiram a construção de cenários que serviram de indicativos para a tomada de decisão pelo time de negócio, que por sua vez teve acesso às informações por meio do bot no Telegram. 
+
 
 
 # Referências
