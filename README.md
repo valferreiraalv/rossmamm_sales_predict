@@ -66,11 +66,19 @@ Por meio do algoritmo Boruta que encontra todas as correlações e sugere variá
 
 <b>6. Treinamento de Modelos de Machine Learning</b>
 
-Foram implementados 5 algoritmos: Baseline, Linear Regression, Linear Regression Lasso, Random Forest Regressor e XGboost Regressor. Em seguido foi ranqueada a performance de cada um desses modelos de acordo com o menor erro ou maior performance, finalizando com a aplicação do cross-validation para medir a performance real. 
+Foram implementados 5 algoritmos: Baseline, Linear Regression, Linear Regression Lasso, Random Forest Regressor e XGboost Regressor. Em seguido foi ranqueada a performance de cada um desses modelos de acordo com o menor erro ou maior performance, finalizando com a aplicação do cross-validation para medir a performance real.
+
+<div align="left">
+<img src="https://github.com/valferreiraalv/rossmann_sales_prediction/blob/main/img/7.6%20Compare_Models_Performance.png" width="500px" />
+</div>
 
 <b>7. Modelo de Negócios </b>
 
 A performance do modelo de machine learning foi traduzida para o modelo de negócio com informações que podem impactar no retorno financeiro e custo de investimos.  
+
+<div align="left">
+<img src="https://github.com/valferreiraalv/rossmann_sales_prediction/blob/main/img/9.2%20Total_Performance.png" width="300px" />
+</div>
 
 <b>8. Implantação do Modelo em Produção </b>
 
