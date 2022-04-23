@@ -86,6 +86,7 @@ Dentre essas etapas, a análise exploratória de dados foi fundamental para a el
 
 A implementação dos modelos de machine learning permitiram a construção de cenários que serviram de indicativos para a tomada de decisão pelo time de negócio, que por sua vez teve acesso às informações por meio do bot no Telegram. 
 
+Apesar de todas as etapas do projeto terem sidos entregues ainda há um ponto importante para ser desenvolvido, o modelo de machine learning trouxe a predição correta para a tomada de decisão, que foi traduzido em modelo de negócio ao time responsável, porém o valor exibido no Bot do Telegram está diferente da predição, o código está em processo revisão para que seja sanado o problema. 
 
 
 # Referências
