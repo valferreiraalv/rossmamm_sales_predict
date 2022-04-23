@@ -86,6 +86,7 @@ A implementação do modelo em produção visa tornar as predições mais acess�
 
 <b>9. Bot no Telegram </b>
 
+![grab-landing-page](https://github.com/valferreiraalv/rossmann_sales_prediction/blob/main/img/Bot_Telegram.gif)
 
 # Conclusão 
 As etapas executadas nesta questão de negócio demonstram a importância de entender a origem da solicitação de previsão de vendas, quais as reais necessidades dos interessados para que o cientista de dados possa chegar ao resultado apresentado. 
