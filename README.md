@@ -24,13 +24,13 @@ As vendas da loja são influenciadas por muitos fatores, incluindo promoções, 
 
 <b>H3.</b> Lojas com competidores a mais tempo deveriam vender mais.
 
-<b>H4.</b> Lojas com promoções ativas popr mais tempo deveriam vender mais.
+<b>H4.</b> Lojas com promoções ativas por mais tempo deveriam vender mais.
 
-<b>H5.</b> Lojas com mais dias de promoções consecutivas deveriam vender mais.
+<b>H5.</b> Lojas com mais promoções consecutivas deveriam vender mais.
 
-<b>H6.</b> Lojas deveriam vender mais ao longo dos anos.
+<b>H6.</b> Lojas abertas durante o feriado de Natal deveriam vender mais.
 
-<b>H7.</b> Lojas deveriam vender mais no segundo semestre do ano.
+<b>H7.</b> Lojas deveriam vender mais ao longo dos anos.
 
 <b>H8.</b> Lojas deveriam vender mais no segundo semestre do ano.
 
